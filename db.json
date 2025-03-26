@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Blog Post",
+      "content": "This is the first blog post content."
+    },
+    {
+      "id": "7be6",
+      "title": "This is a new Post",
+      "content": "This is some new content"
+    },
+    {
+      "id": "2440",
+      "title": "My Post ",
+      "content": "All about me! My Favorite subject"
+    },
+    {
+      "id": "3c4a",
+      "title": "I love to sleep",
+      "content": "This is a sleepy description"
+    },
+    {
+      "id": "4604",
+      "title": "The joy of snoring",
+      "content": "This is about snoring"
+    }
+  ]
+}
